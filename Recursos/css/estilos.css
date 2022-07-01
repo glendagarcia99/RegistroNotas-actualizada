@@ -1,0 +1,67 @@
+h3{
+    color:white;
+    background-color: brown ;
+}
+
+.barra{
+    background-color: rgba(236, 232, 232, 0.8);
+}
+li > a{
+    color: brown;
+    font-weight: bold;
+    text-decoration: none; 
+    margin-right: 10px;
+    transition: .5s;
+}
+li > a:hover {  
+    background:rgb(221, 221, 221);
+    border-radius: 4px;
+    color: brown;
+  
+}
+.fondo{
+    background: whitesmoke;
+}
+
+h4.form-login-heading{
+    text-align: center;
+    /* background: #68dff0; */
+    color: brown;
+    font-size: 20px;
+    font-weight: 300;
+}
+
+.boton-estudiante{
+    background: brown;
+    width: 100%;
+    border-color: brown;
+    border-left: brown;
+    border-bottom: brown;
+    border-right: brown;
+    height: 10%;
+    border-radius: 4px;
+    color: whitesmoke;
+}
+
+.boton-curso{
+    background: brown;
+    border-color: brown;
+    border-left: brown;
+    border-bottom: brown;
+    border-right: brown;
+    width: 100%;
+    height: 18%;
+    border-radius: 4px;
+    color: whitesmoke;
+}
+.boton-notas{
+    background-color: brown;
+    border-color: brown;
+    border-left: brown;
+    border-bottom: brown;
+    border-right: brown;
+    width: 100%;
+    height: 40px;
+    border-radius: 4px;
+    color: whitesmoke;
+}
